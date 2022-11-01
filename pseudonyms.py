@@ -1,4 +1,9 @@
-import random, sys
+"""
+A program that randomly generates firstname/lastnames based on the dicts below.
+"""
+
+import random
+import sys
 
 first = ('Baby Oil', 'Bad News', 'Big Burps', "Bill 'Beenie-Weenie'",
          "Bob 'Stinkbug'", 'Bowel Noises', 'Boxelder', "Bud 'Lite'",
